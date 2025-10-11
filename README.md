@@ -1,8 +1,8 @@
 # Olá, sou o Felipe!👋
 
-Minha jornada na tecnologia começou na análise de dados para auditoria na **EY**. Lá, meu trabalho era basicamente o de um detetive: investigar grandes volumes de informação, encontrar a inconsistência, o erro e garantir que tudo estivesse em conformidade com as regras de negócio.
+Minha jornada na tecnologia começou na análise de dados para auditoria na EY. Lá, meu trabalho era basicamente o de um detetive: investigar grandes volumes de informação, encontrar a inconsistência, o erro e garantir que tudo estivesse em conformidade com as regras de negócio.
 
-Percebi que essa busca por precisão e qualidade era o que mais me motivava, e a transição para a área de **Quality Assurance (QA)** foi um caminho natural. Hoje, aplico esse mesmo **olhar crítico de auditor** para encontrar defeitos e garantir a qualidade de software.
+Percebi que essa busca por precisão e qualidade era o que mais me motivava, e a transição para a área de **Quality Assurance (QA)** foi um caminho natural. Hoje, aplico esse mesmo olhar crítico para encontrar defeitos e garantir a qualidade de software.
 
 ---
 
