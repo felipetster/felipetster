@@ -5,7 +5,6 @@ Minha jornada na tecnologia começou na análise de dados para auditoria na EY. 
 Percebi que essa busca por precisão e qualidade era o que mais me motivava, e a transição para a área de **Quality Assurance (QA)** foi um caminho natural. Hoje, aplico esse mesmo olhar crítico para encontrar defeitos e garantir a qualidade de software.
 
 ---
-
 ###  No que estou focado agora:
 
 *  **Automação de Testes Web:** Construindo meu portfólio com **Python, Selenium e Pytest** para automatizar os fluxos de login e compra no site de demonstração SauceDemo.
