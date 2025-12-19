@@ -1,33 +1,35 @@
-# Olá, sou o Felipe!👋
+# Olá, sou o Felipe! 👋
 
 Minha jornada na tecnologia começou na análise de dados para auditoria na EY. Lá, meu trabalho era basicamente o de um detetive: investigar grandes volumes de informação, encontrar a inconsistência, o erro e garantir que tudo estivesse em conformidade com as regras de negócio.
 
 Percebi que essa busca por precisão e qualidade era o que mais me motivava, e a transição para a área de **Quality Assurance (QA)** foi um caminho natural. Hoje, aplico esse mesmo olhar crítico para encontrar defeitos e garantir a qualidade de software.
 
 ---
-###  No que estou focado agora:
 
-*  **Automação de Testes Web:** Construindo meu portfólio com **Python, Selenium e Pytest** para automatizar os fluxos de login e compra no site de demonstração SauceDemo.
-*  **Testes de API:** Aprofundando em testes de endpoints com **Postman** e criando scripts com a biblioteca `requests` para validar respostas e schemas.
-*  **Testes Manuais Estruturados:** Documentando casos de teste e reportando bugs para projetos de estudo, com foco total na clareza e na capacidade de reprodução.
+### No que estou focado agora:
+
+* **Automação de Testes Web:** Construindo meu portfólio com **Python, Selenium e Pytest** para automatizar fluxos de login e compra (SauceDemo).
+* **Testes de API:** Automatizando fluxos End-to-End (CRUD) com **Postman** e **JavaScript** (Projeto ServeRest), validando autenticação e contratos.
+* **Gestão de Testes:** Documentando casos de teste e reportando bugs com **Jira e Zephyr**, focando na rastreabilidade e clareza para os desenvolvedores.
 
 ---
 
-###  Minha Caixa de Ferramentas
+### Minha Caixa de Ferramentas
 
 **Linguagens e Dados:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Automação de Testes e Ferramentas de QA:**
+**Automação e Gestão de QA:**
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Zephyr Scale](https://img.shields.io/badge/Zephyr_Scale-5E60BA?style=for-the-badge&logo=jira&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/PyTest-00A899?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Metodologias:**
 
@@ -36,7 +38,7 @@ Percebi que essa busca por precisão e qualidade era o que mais me motivava, e a
 
 ---
 
-###  Sobre Mim
+### Sobre Mim
 
 Estou buscando minha **primeira oportunidade como Analista de Testes Júnior** e adoraria conectar com outros profissionais da área e, quem sabe, agregar à sua equipe. :)
 
