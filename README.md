@@ -8,7 +8,7 @@ Percebi que essa busca por precisão era o que me motivava, e a transição para
 
 ### No que estou focado agora:
 
-* **Automação de Testes de API (Postman + JavaScript):** * Desenvolvimento de scripts avançados usando **JavaScript Moderno (ES6+)**.
+* **Automação de Testes de API (Postman + JavaScript):** *Desenvolvimento de scripts avançados usando **JavaScript Moderno (ES6+)**.
   * Aplicação de métodos como `.reduce()` e `.find()` para validação de regras de negócio e cálculos server-side em fluxos de carrinho de compras.
   * Automação de fluxos completos (Auth JWT → CRUD → Validação de Dados) com variáveis dinâmicas.
 
