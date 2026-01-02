@@ -12,9 +12,9 @@ Percebi que essa busca por precisão era o que me motivava, e a transição para
   * Aplicação de métodos como `.reduce()` e `.find()` para validação de regras de negócio e cálculos server-side em fluxos de carrinho de compras.
   * Automação de fluxos completos (Auth JWT → CRUD → Validação de Dados) com variáveis dinâmicas.
 
-* **Automação Web (Python):** * Construindo portfólio com **Selenium e Pytest** para automatizar jornadas de usuário (Login e Checkout).
+* **Automação Web (Python):**  Construindo portfólio com **Selenium e Pytest** para automatizar jornadas de usuário (Login e Checkout).
 
-* **Gestão de Qualidade:** * Documentação técnica de bugs e casos de teste no **Jira/Zephyr**, sempre focando na rastreabilidade e clareza para o time de desenvolvimento.
+* **Gestão de Qualidade:**  Documentação técnica de bugs e casos de teste no **Jira/Zephyr**, sempre focando na rastreabilidade e clareza para o time de desenvolvimento.
 
 ---
 
