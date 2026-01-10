@@ -1,8 +1,6 @@
 # Olá, sou o Felipe!
 
-### De Auditor de Dados (Big 4) a Analista de QA
-
-Minha jornada na tecnologia começou na análise de dados para auditoria externa na **EY (Ernst & Young)**. Lá, meu trabalho era investigar grandes volumes de informação, identificar inconsistências e garantir a conformidade com regras de negócio críticas.
+Minha jornada na tecnologia começou na análise de dados para auditoria na **EY (Ernst & Young)**. Lá, meu trabalho era investigar grandes volumes de informação, identificar inconsistências e garantir a conformidade com regras de negócio críticas.
 
 Com o tempo, percebi que essa busca por precisão e prevenção de falhas era minha verdadeira motivação. A transição para **Quality Assurance (QA)** foi natural. Hoje, uno meu background analítico com habilidades de codificação para garantir a qualidade de software, não apenas encontrando bugs, mas validando a lógica do negócio e a integridade dos dados.
 
