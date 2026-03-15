@@ -20,9 +20,11 @@ Ex-Analista de Dados na **EY (Ernst & Young)**, agora focado em garantia de qual
 
 ## Stack Tecnológico
 
-**Linguagens**: Java • JavaScript • SQL  
-**Testes**: Selenium • Postman • JMeter • TestNG  
-**Ferramentas**: Git • Maven • Jira • IntelliJ IDEA
+**Linguagens** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white)
+
+**Testes & Qualidade** ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=flat&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=Apache-JMeter&logoColor=white) ![TestNG](https://img.shields.io/badge/-TestNG-FF7EB3?style=flat)
+
+**Ferramentas & DevOps** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
 
